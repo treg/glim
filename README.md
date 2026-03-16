@@ -81,6 +81,7 @@ The supported `boot/iso/` sub-directories (in alphabetical order) are :
 * [`netrunner`](https://www.netrunner.com/)
 * [`nixos`](https://nixos.org/)
 * [`openbsd`](https://www.openbsd.org/)
+* [`opnsense`](https://opnsense.org/)
 * [`opensuse`](https://www.opensuse.org/) - _Live from Alternative Downloads only_
 * [`peppermint`](https://peppermintos.com/)
 * [`popos`](https://pop.system76.com/)
